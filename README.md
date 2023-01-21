@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @phanibitla
 - 👀 I’m interested in Web Development, automation, AI & ML
-- 🌱 I’m currently learning Ioninc, VueJS, .Net Core
+- 🌱 I’m currently learning Ionic, VueJS, .Net Core
 - 💞️ I’m looking to collaborate on .Net Core / AI / ML / Data Analytics 
 - 📫 How to reach me phanibitla@gmail.com
 
