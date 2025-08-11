@@ -31,6 +31,8 @@ Technical Interview Prep: Curated company-wise LeetCode solutions for developer 
 
 🌟 Professional Highlights:
 
+Senior .NET Consultant and Architect at Qatar National Bank
+
 Senior .NET Developer and Architect with proven track record in Qatar Airways
 
 Systems Engineer experience in aviation and enterprise environments
@@ -43,7 +45,7 @@ Expertise in both legacy system modernization and greenfield development
 
 Languages: C#, Python, JavaScript, SQL
 
-Frameworks: .NET Core, Vue.js, Ionic
+Frameworks: .NET Core, Angular, Telerik, Ionic
 
 Tools: Azure DevOps, Git, Visual Studio
 
