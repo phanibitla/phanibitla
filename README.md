@@ -5,7 +5,7 @@ Passionate technologist specializing in scalable system architecture and full-st
 
 Backend Development: .NET Core, C#, Dapper ORM, System Architecture
 
-Frontend Technologies: Vue.js, Ionic Framework, Web Development
+Frontend Technologies: Angular, Blazor, Ionic Framework, Web Development
 
 Emerging Tech: AI/ML Integration, Automation Solutions, Data Analytics
 
